@@ -1,0 +1,6 @@
+CursorMaster/bin/
+CursorMaster/obj/
+CursorMaster/Installer/Output/
+.vs/
+*.user
+*.suo
